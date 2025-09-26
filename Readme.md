@@ -134,6 +134,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 👤 Author
 
-**Devansh Singh**  
-📧 Email: [devanshsingh1974@gmail.com](mailto:devanshsingh1974@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/devanshsingh2006](https://linkedin.com/in/devanshsingh2006)  
+**Praharshitha Bandla**  
+📧 Email: [praharshitha35@gmail.com](mailto:praharshitha35@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/praharshithabandla2006](https://www.linkedin.com/in/praharshitha-bandla-713a28322/)  
